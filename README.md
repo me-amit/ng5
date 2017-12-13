@@ -1,3 +1,11 @@
+#tutorial = 
+[By-DesignCource](https://www.youtube.com/watch?v=oa9cnWTpqP8)
+
+#Demo =
+[Demo](https://me-amit.github.io/ng5/)
+
+ng build --prod --base-href="https://me-amit.github.io/ng5/"
+angular-cli-ghpages
 # Ng5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
